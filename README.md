@@ -1,5 +1,5 @@
 # 💫 About Me:
-I currently work at Accenture.<br>I am working on Quiz generator app with AI Prompt <br>and Release management  Application using Angular and dot net core.<br>I am learning System Design and Gen AI and Agentic AI.
+I currently work at Accenture.<br>I am working on Quiz generator app with AI Prompt <br>and Release management  Application using Angular and .net core.<br>I am learning System Design, Gen AI and Agentic AI.
 
 
 ## 🌐 Socials:
