@@ -1,5 +1,10 @@
 # 💫 About Me:
-I currently work at Accenture.<br>I am working on Quiz generator app with AI Prompt <br>and Release management  Application using Angular and .net core.<br>I am learning System Design, Gen AI and Agentic AI.
+I currently work at Accenture.<br>
+I have 8 years of exeperience in .Net Technologies as a Software Developer.<br>
+Skilled in ASP.Net MVC, ASP.Net Core, Angular, C#, Typescript, Javascript, REST Apis, SQL Server.<br>
+I Have Good exposure to cloud technologies like Microsoft Azure, DevOps, AKS.<br>
+<br>I am working on Quiz generator app with AI Prompt and Release management Application using Angular and .net core.
+<br>I am learning System Design, Gen AI and Agentic AI.
 
 
 ## 🌐 Socials:
